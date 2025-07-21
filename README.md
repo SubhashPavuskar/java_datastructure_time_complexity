@@ -1,5 +1,6 @@
 ## Java Collections Big O Performance Summary
 
+
 Below are the time complexity details for common functions of major Java Collection classes.
 
 ### List Implementations
