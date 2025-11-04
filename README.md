@@ -3,6 +3,7 @@
 Below are the time complexity details for common functions of major Java Collection classes.
 
 
+
 ### List Implementations
 
 | List Type             | Add   | Remove | Get   | Contains | Next  | Data Structure |
